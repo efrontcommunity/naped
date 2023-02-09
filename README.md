@@ -4,7 +4,7 @@
 
 ![Resultado final do projeto](public/preview.png)
 
-<h4 align="center"><a href="https://www.iuricode.com/naped">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://iuricode-naped.vercel.app/">Clique para visitar o projeto</a></h4>
 
 ---
 
