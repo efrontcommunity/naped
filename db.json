@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "imageUrl": "/1.jpg",
+      "category": "Séries",
+      "title": "Vikings foi cancelada mas história vai continuar em nova série",
+      "resume": "A hora chegou, e os fãs de Vikings vão se despedir de uma das melhores séries medievais da TV. Hoje, dia 30 de dezembro, chegou pela Netflix a parte final da sexta temporada. E com isso, o desfecho final da atração.",
+      "date": "30 DEZ 2020",
+      "content": "Este é o fim de uma das séries mais bem sucedidas dos últimos anos, produzida pelo History e distribuída aqui no Brasil pela Netflix. Isso porque a série foi cancelada ainda em 2019, pelo History, mas recebeu sinal positivo para um final apropriado com uma sexta temporada completa. Mas mesmo com o seu fim indo ao ar ainda em 2020, os fãs poderão comemorar um fato: o universo de Vikings continuará através de uma nova série derivada. ",
+      "star": "3",
+      "new": "no"
+    },
+    {
+      "id": 2,
+      "imageUrl": "/2.png",
+      "category": "Jogos",
+      "title": "Diretor Vikings de God of War dá resposta para quem afirma que jogos single-player estão morrendo",
+      "resume": "Tem sido muito comum nos últimos anos ouvir que a indústria de games single-player está morrendo. Bem, se isso é verdade então os single player são verdadeiras aves fênix, de acordo com Cory Barlog, diretor de God of War.",
+      "date": "11 JUN 2018",
+      "content": "Tem sido muito comum nos últimos anos ouvir que a indústria de games single-player está morrendo. Bem, se isso é verdade então os single player são verdadeiras aves fênix, de acordo com Cory Barlog, diretor de God of War.",
+      "star": "5",
+      "new": "no"
+    },
+    {
+      "id": 3,
+      "imageUrl": "/3.webp",
+      "category": "Animes",
+      "title": "viki 30 antes dos 30: Sen to Chihiro no Kamikakushi",
+      "resume": "Está entre os melhores filmes de animação de sempre e tem o recorde de bilheteira aquando da sua estreia no Japão: Sen to Chihiro no Kamikakushi, de 2001, é possivelmente a obra-prima de Hayao Miyazaki.",
+      "date": "09 NOV 2018",
+      "content": "Está entre os melhores filmes de animação de sempre e tem o recorde de bilheteira aquando da sua estreia no Japão: Sen to Chihiro no Kamikakushi, de 2001, é possivelmente a obra-prima de Hayao Miyazaki.",
+      "star": "5",
+      "new": "no"
+    },
+    {
+      "id": 4,
+      "imageUrl": "/4.webp",
+      "category": "Animes",
+      "title": "vi Kimetsu no Yaiba revela as capas dos seus próximos Volumes Blu-ray/DVD",
+      "resume": "O twitter oficial da adaptação para série anime do mangá Kimetsu no Yaiba (Demon Slayer) de Koyoharu Gotouge revelou as capas dos próximos volumes Blu-ray/DVD que vão ser lançados no Japão.",
+      "date": "19 SET 2022",
+      "content": "O twitter oficial da adaptação para série anime do mangá Kimetsu no Yaiba (Demon Slayer) de Koyoharu Gotouge revelou as capas dos próximos volumes Blu-ray/DVD que vão ser lançados no Japão.",
+      "star": "5",
+      "new": "no"
+    },
+    {
+      "id": 5,
+      "imageUrl": "/5.jpg",
+      "category": "Filmes",
+      "title": "Filme 'A Rede Social' completa 10 anos como um presságio de como as conexões mudaram",
+      "resume": "Dez anos atrás, o diretor David Fincher e o roteirista Aaron Sorkin nos ofereceram um mito de origem muito bem concebido sobre uma das instituições online que definem esta geração, e sobre o homem por trás da empresa (retratado, por Jesse Eisenberg, como um celibatário involuntário que fala muito rápido e usa sandálias).",
+      "date": "1 FEV 2022",
+      "content": "Dez anos atrás, o diretor David Fincher e o roteirista Aaron Sorkin nos ofereceram um mito de origem muito bem concebido sobre uma das instituições online que definem esta geração, e sobre o homem por trás da empresa (retratado, por Jesse Eisenberg, como um celibatário involuntário que fala muito rápido e usa sandálias).",
+      "star": "4",
+      "new": "no"
+    },
+    {
+      "id": 6,
+      "imageUrl": "/6.jpg",
+      "category": "Animes",
+      "title": "Dragon Ball: 13 personagens mais fortes do anime",
+      "resume": "Dragon Ball é conhecido por ser um anime que fez parte da infância de muitas pessoas e causou empolgação no público por suas batalhas eletrizantes, além de ter personagens incríveis e muito poderosos.",
+      "date": "1 JAN 2022",
+      "content": "Dragon Ball é conhecido por ser um anime que fez parte da infância de muitas pessoas e causou empolgação no público por suas batalhas eletrizantes, além de ter personagens incríveis e muito poderosos.",
+      "star": "4",
+      "new": "no"
+    },
+    {
+      "id": 7,
+      "imageUrl": "/7.jpg",
+      "category": "Jogos",
+      "title": "Assassin's Creed Valhalla: Guia completo",
+      "resume": "Assassin's Creed Valhalla leva a franquia Assassin's Creed para o Século IX, nos países nórdicos. Os jogadores controlam um guerreiro viking que embarca das terras congeladas da Noruega para atacar as costas da Inglaterra e também iniciar um novo assentamento.",
+      "date": "1 JAN 2021",
+      "content": "Assassin's Creed Valhalla leva a franquia Assassin's Creed para o Século IX, nos países nórdicos. Os jogadores controlam um guerreiro viking que embarca das terras congeladas da Noruega para atacar as costas da Inglaterra e também iniciar um novo assentamento.",
+      "star": "4",
+      "new": "yes"
+    },
+    {
+      "id": 8,
+      "imageUrl": "/8.jpg",
+      "category": "Animes",
+      "title": "15 curiosidades da animação Meu Amigo Totoro que você não sabia",
+      "resume": "A animação conta a história de duas irmãs, Mei e Satsuki, que se mudam para uma casa na zona rural com seu pai Tatsuo. Sua mãe, Yusuko, está internada no hospital. Perto da nova casa conhecem os espíritos da floresta e seu líder, Totoro.",
+      "date": "11 NOV 2022",
+      "content": "A animação conta a história de duas irmãs, Mei e Satsuki, que se mudam para uma casa na zona rural com seu pai Tatsuo. Sua mãe, Yusuko, está internada no hospital. Perto da nova casa conhecem os espíritos da floresta e seu líder, Totoro.",
+      "star": "4",
+      "new": "yes"
+    }
+  ]
+}
